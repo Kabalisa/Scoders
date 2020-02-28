@@ -98,3 +98,60 @@
 .wordFontsix {
   font-size: 20px;
 }
+
+.positionFour {
+  margin-top: 10%;
+}
+
+.wordFontSeven {
+  font-weight: bold;
+  margin-bottom: 3%;
+}
+
+.positionFive {
+  margin-left: 1%;
+}
+
+.positionSix {
+  margin-bottom: 1%;
+}
+
+.inputFontOne {
+  border-width: 0px 0px 1px 0px;
+  border-color: black;
+}
+
+.inputFontTwo {
+  border-width: 0px 0px 1px 0px;
+  border-color: black;
+  width: 28%;
+}
+
+.inputFontThree {
+  border-width: 0px 0px 1px 0px;
+  border-color: black;
+  width: 50%;
+}
+
+.sendButton {
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 2%;
+}
+
+.positionFive {
+  margin-top: 10%;
+}
+
+.hrLine {
+  border-color: black;
+  border-width: 0px 0px 2px 0px;
+  margin-bottom: 3%;
+  width: 100%;
+}
+
+.menu {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
